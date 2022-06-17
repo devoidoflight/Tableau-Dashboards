@@ -1,3 +1,4 @@
+
 In this first dashboard, I connected Google BigQuery as a Datasource. That way, whenever I update my data it automatically updates the dashboard too. 
 This way we can update our dashboards daily and see what happennd to our data in daily basis. 
 
@@ -6,4 +7,11 @@ https://public.tableau.com/views/Football-BigQuery/Dashboard1?:language=en-US&:d
 
 
 
+I created this one for a website. It's using the data from our paper. I didn't wanted to expose the data so i used the aggregated results.
 
+https://public.tableau.com/shared/DDBWPG8GH?:display_count=n&:origin=viz_share_link
+
+
+This is the first dashboard I ever created. I've used data of matchmaking app called Lovoo from Kaggle
+
+https://public.tableau.com/views/LovooDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
