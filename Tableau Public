@@ -1,0 +1,9 @@
+In this first dashboard, I connected Google BigQuery as a Datasource. That way, whenever I update my data it automatically updates the dashboard too. 
+This way we can update our dashboards daily and see what happennd to our data in daily basis. 
+
+
+https://public.tableau.com/views/Football-BigQuery/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
+
